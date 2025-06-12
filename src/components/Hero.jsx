@@ -23,7 +23,7 @@ export default function Hero() {
         {/* Line 1 */}
         <div className="flex flex-wrap justify-center items-center gap-2">
           <span>I am a</span>
-          <span className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16 inline-flex items-center rounded-full overflow-hidden">
+          <span className="w-10 h-10 sm:w-12 sm:h-12 md:w-32 md:h-32 inline-flex items-center rounded-full overflow-hidden">
             <img src={avatar1} alt="avatar1" />
           </span>
           <span>freelance</span>
@@ -32,7 +32,7 @@ export default function Hero() {
         {/* Line 2 */}
         <div className="flex flex-wrap justify-center items-center gap-2">
           <span>designer</span>
-          <span className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16 inline-flex items-center rounded-full overflow-hidden">
+          <span className="w-10 h-10 sm:w-12 sm:h-12 md:w-32 md:h-32 inline-flex items-center rounded-full overflow-hidden">
             <img src={avatar2} alt="avatar2" />
           </span>
           <span>from</span>
