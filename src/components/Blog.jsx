@@ -1,7 +1,7 @@
 // src/components/Blog.jsx
 
 import React from 'react'
-import starIcon from '../assets/Star.svg'
+import starIcon from '../assets/star.svg'
 import img1     from '../assets/image-1.png'
 import img2     from '../assets/image-2.png'
 import img3     from '../assets/image-3.png'

@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react'
 import avatar1  from '../assets/userProfile.svg'
-import starIcon from '../assets/Star.svg'
+import starIcon from '../assets/star.svg'
 import quoteIcon from '../assets/quote.svg'
 import arrow     from '../assets/arrow.svg'
 

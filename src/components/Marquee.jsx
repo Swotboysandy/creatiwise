@@ -1,5 +1,5 @@
 import React from 'react'
-import Star2    from '../assets/Star-2.svg'
+import Star2    from '../assets/star-2.svg'
 import Designer from '../assets/DESIGNER.svg'
 import Figma    from '../assets/FIGMA.svg'
 

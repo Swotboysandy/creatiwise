@@ -1,7 +1,7 @@
 // src/components/Experience.jsx
 
 import React from 'react'
-import starIcon from '../assets/Star.svg'
+import starIcon from '../assets/star.svg'
 
 export default function Experience() {
   const roles = [

@@ -1,6 +1,6 @@
 // src/components/FAQ.jsx
 import React, { useState } from 'react'
-import starIcon from '../assets/Star.svg'
+import starIcon from '../assets/star.svg'
 
 export default function FAQ() {
   const items = [
